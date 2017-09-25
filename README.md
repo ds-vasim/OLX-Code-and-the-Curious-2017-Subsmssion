@@ -1,7 +1,7 @@
 # Popularity-based-Ad-Recommender-System
 My Solution to the OLX Code and the Curious Ad Recommender Problem. My Final Ranking was 54/1077.
 
-![](images/position.jpeg?raw=true)
+![](images/position.png?raw=true)
 
 The Dataset can be downloaded from the below link.
 
