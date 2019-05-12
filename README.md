@@ -7,4 +7,6 @@ The Dataset can be downloaded from the below link.
 
 https://s3.amazonaws.com/hr-testcases-us-east-1/42908/assets/olx-ads-recommendation-dataset.zip
 
+Also on Google Drive
+
 
